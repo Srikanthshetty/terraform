@@ -146,5 +146,5 @@ If the plan was created successfully, Terraform will now pause and wait for appr
 
 If everything looks good in execution plan and once you give confirmation by typing 'yes' , you will get confirmation on the completion of infrastructure creation. You can validate it by checking it in Portal or cli.
 
-Till now we learned about terraform , configuration and built one simple infrastructure(Azure resource group). I have couple of examples with azure virtual network creation, azure virtual machines in my github location.
+Till now we learned about terraform , configuration and built one simple infrastructure(Azure resource group). I have couple of examples with azure virtual network creation, azure virtual machines in my github [location](https://github.com/Srikanthshetty/terraform/tree/master/azure/basicexamples).
 
