@@ -1,4 +1,4 @@
-$ terraform plan
+```$ terraform plan
 Refreshing Terraform state in-memory prior to plan...
 The refreshed state will be used to calculate this plan, but will not be
 persisted to local or remote state storage.
@@ -100,4 +100,4 @@ Plan: 4 to add, 0 to change, 0 to destroy.
 
 Note: You didn't specify an "-out" parameter to save this plan, so Terraform
 can't guarantee that exactly these actions will be performed if
-"terraform apply" is subsequently run.
+"terraform apply" is subsequently run.```
