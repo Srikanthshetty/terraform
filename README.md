@@ -1,6 +1,6 @@
 # Terraform
 
-Learn the basics of terraform in this step by step tutorial. I tried to keep as simple as possible. All examples mentioned are either from Azure or GCP. This is intended to help you quickly learn the fundamentals of Terraform. Main objectives of this tutorial is to get hands on samples to understand the each topics in Terraform.
+In this post i will try to introduce basics of terraform. This is intended to help you quickly learn the fundamentals of Terraform. Main objectives of this tutorial is to get hands on samples to understand the each topics in Terraform. All examples given in this post are using either Azure or GCP. 
 
 ## Prerequisties
 An Azure account and a system with terraform installed.
