@@ -15,7 +15,7 @@ List of topics
  6. Resource Dependencies _ Interpolation
  7. Provision
  8. How to define variables in Terraform
- 9. Loops, Elementsm Ternary Operator
+ 9. Loops, and Ternary Operator
 10. States in Terraform Remote State Storage 
 11. Modules
 12. Terraform Workspace
