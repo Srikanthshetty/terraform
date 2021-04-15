@@ -44,7 +44,7 @@ Terraform manages infrastructure provisioning on many service providers. However
 Its time for creating infrastructure.
 
 #### Providers ####
- The `provider` block is used to configure the named provider, in this instance the [Azure provider](https://www.terraform.io/docs/providers/azurerm/index.html). The azure provider is responsible for creating and managing the resoources on Azure.
+ The `provider` block is used to configure the named provider, in this instance the [Azure provider](https://www.terraform.io/docs/providers/azurerm/index.html). The azure provider is responsible for creating and managing the resources on Azure.
  
  A basic Azure provider block looks like this: 
 
